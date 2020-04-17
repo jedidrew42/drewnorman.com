@@ -1,6 +1,6 @@
 ---
 title: What  I can Offer
-image: /img/products-jumbotron.jpg
+image: img/1ad076cc-5a74-47ca-92b2-354233be28cc.jpeg
 heading: What we offer
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
